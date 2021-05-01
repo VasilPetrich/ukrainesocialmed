@@ -43,7 +43,6 @@
         </div>
     </div>
 </div>
-<!-- End your project here-->
 
 <!-- MDB -->
 <script type="text/javascript" src="js/mdb.min.js"></script>
